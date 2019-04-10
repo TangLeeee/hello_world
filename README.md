@@ -1,8 +1,8 @@
 # hello_world
-just a new start
+a new start
 
-xcy here, life is goning on,something different would like to be change!hope everything ok!
+i'm xcy, and life is goning on, something different would like to happen.
 
-now i'm learning blockchain and SDN in Tsing university.beijing is a big city and whatever it's a honor to study here
+now i'm majoring in blockchain and SDN and some data pricng work in Tsing university. Beijing is a good place, people here are smart and hard working, living a busy life. Whatever it's a honor to be here for a year learning.
 
-after a year, back to school with satisfaction.
+Hope back to school with satisfaction.
